@@ -13,7 +13,5 @@ Text Graph Constructor is a Python-based tool that constructs a graph representa
 
 4. Matplotlib: Matplotlib is a popular plotting library in Python. It is used to visualize the constructed graph in a graphical form, enabling users to understand the relationships between sentences more intuitively.
 
-The combination of these tools enables the TextGraphBuilder project to offer a valuable solution for visualizing and analyzing textual data by transforming it into a graphical representation of sentence similarity.
-
 # Python Notebook:
 Text Graph Constructor.ipynb
